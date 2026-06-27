@@ -6,6 +6,6 @@
 </p>
 <p align="center">
   <code>predict. compete. earn.</code>
-  <br />>
+  <br />
   <code>by <a href="https://1kbgz.com">1kbgz</a>.</code>
 </p>
